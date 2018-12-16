@@ -410,7 +410,7 @@ margin-top: 150px;
   background: #383737;
 }
 @media only screen and (max-width: 479px){
-    #console { width: 90%; height:90%;}
+    #console { width: 90%;}
 }
 span.answer {
   color: #ccc;
