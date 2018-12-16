@@ -396,7 +396,7 @@ margin-top: 150px;
     padding-top: 15px;
     font-size: 30px;
     background: #ccc;
-    height: 900px;
+    height: 800px;
     font-family: 'Monaco', 'Courier New';
     text-align: left;
     font-size: 13px;
@@ -405,7 +405,7 @@ margin-top: 150px;
 #console {
   width: 750px;
   padding: 40px;
-  height: 900px;
+  height: 800px;
   margin: 0 auto;
   background: #383737;
 }
